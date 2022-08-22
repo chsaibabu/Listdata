@@ -1,0 +1,16 @@
+input {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 4px;
+  background-color: rgba(134, 133, 133, 0.274);
+}
+main {
+  height: 50px;
+  justify-content: center;
+  width: 260px;
+  background-color: seagreen;
+}
+h1 {
+  padding-top: 5%;
+  text-align: center;
+}

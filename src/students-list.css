@@ -1,0 +1,33 @@
+.ui__section {
+  padding-top: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.ui__section__list {
+  list-style: non;
+  color: #fff;
+  height: auot;
+  width: 230px;
+  background: rgba(212, 84, 202, 0.767);
+  margin-top: 25px;
+  border-radius: 4px;
+  border: 1px solid saddlebrown;
+}
+.ui__section__header {
+  display: ;
+}
+
+.ui__section__header input {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 4px;
+  background-color: rgba(134, 133, 133, 0.274);
+}
+
+.ui__section__header button {
+  border: none;
+  background-color: seagreen;
+  color: #fff;
+  border-radius: 4px;
+  padding: 8px 24px;
+}
